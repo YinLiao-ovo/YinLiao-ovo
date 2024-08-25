@@ -1,6 +1,7 @@
-<center>慢品人间烟火色，闲观万事岁月长</center>
+<div align=center>慢品人间烟火色，闲观万事岁月长</div>
 
 <div align=right>——苏轼</div>
+
 # 简历 | Profile
 ----------------------------------
 <img src="1.png" width = "50%" />
