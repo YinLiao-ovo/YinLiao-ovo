@@ -1,6 +1,6 @@
-<div align=center><font color="red" size=3 face="宋体">慢品人间烟火色，闲观万事岁月长</font></div>
+<div align=center><font color="red" size=20>慢品人间烟火色，闲观万事岁月长</font></div>
 
-<div align=right><font color="red" size=3 face="宋体">——苏轼</font></div>
+<div align=right><font color="red" size=20>——苏轼</font></div>
 
 # 关于我 | Profile
 ----------------------------------
