@@ -9,7 +9,7 @@
 ---
 <div align=center><img src="1.png" width = "75%" /></div>
 
-&emsp;&emsp;饮料，男，19岁，学生。来自山东淄博，现居北京，汉族，毕业于山东淄博实验中学，2020年12月加入中国共产主义青年团。Microsoft Windows Insider Program Member，曾参与书法教育教学，高中数学物理课程教学培训。独立原创音乐人，网易入驻歌手，Q音入驻歌手。
+&emsp;&emsp;饮料，男，19岁，学生。来自山东淄博，现居北京，汉族，毕业于山东淄博实验中学，2020年12月加入中国共产主义青年团。Microsoft Windows Insider Program Member，曾参与书法教育教学，高中数学物理课程教学培训。独立原创音乐人，网易入驻歌手，腾讯校园音乐人。
 
 &emsp;&emsp;本科现就读于华北科技学院计算机学院网络工程专业。曾获得省级文化艺术比赛书法类一等奖，市、区级文化艺术节各级别奖项[^各级别奖项]数十次。自幼学习声乐、书法已十余年，书法精通楷、隶、行等多种书体。擅长作词、作曲、演唱。2022年发布与他人共同演唱的原创作品，同年发布个人原创单曲专辑。曾参与开发、编辑vivo/iQOO第三方主题共享到v粉社区成员使用。喜欢中国铁路，淄博公交。
 
@@ -61,7 +61,9 @@
 
 ### 我的音乐作品
 
-在2022年，与豆芽酱共同演唱《光线》，收录在专辑《是否》中。同年7月首发个人单曲《水墨的工笔变成写意》，收录在同名专辑中。
+在2022年，与豆芽酱共同演唱《光线》，收录在专辑《是否》中。同年7月首发个人单曲《水墨的工笔变成写意》，收录在同名专辑中。<br/>
+在全民K歌平台发布翻唱歌曲已近百首，点击查看[我的全民K歌主页](https://static-play.kg.qq.com/node/personal_v2?uid=649c9d872325308b34&shareUid=649c9d872325308b34&pageId=homepage_me)
+
 
 **歌曲名称** | **专辑** | **演唱** | **发行年份** | **链接**
 :---: | :---: | :---: | :---: | :---:
@@ -69,6 +71,8 @@
 《水墨的工笔变成写意》 | 《水墨的工笔变成写意》 | 饮料 | 2022 | [<font color="FF5000">网易云音乐</font>](https://y.music.163.com/m/song?id=1964826387&userid=1520329510&dlt=0846)<br/>[<font color="00FFAA">QQ音乐</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=4sLnAJJy0hIv)
 《晴天》 | — | 饮料 | 2024 | [<font color="00FFAA">QQ音乐<br/>(cover周杰伦)</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=mYvaj2tj0Qxr)
 《我的纸飞机》 | — | 饮料 | 2024 | [<font color="00FFAA">QQ音乐<br/>(cover王之睿/GooGoo)</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=FiH0zPFj0ovI)
+《白羊》 | - | 饮料 | 2024 | [抖音短视频](https://v.douyin.com/ihmGJCxH/)
+《七里香》 | - | 饮料 | 2022 | [抖音短视频](https://v.douyin.com/ihmGaqAN/)
 ... | ... | ... | ... | ...
 
 ### <font color="00AAFF">知乎</font>创作者
@@ -88,6 +92,12 @@ BiliBili | UID:485620143 | 午夜心碎饮料
 知乎 | - | 饮料小宝贝
 X | YinLiao_Baby | Yin Liao
 GitHub | YinLiao-ovo | 饮料
+Microsoft<br/>Community | - | YinLiao.Liu
+抖音 | YinLiao.ovo | 午夜心碎饮料
+全民K歌 | lyl2302029612 | 午夜心碎饮料
+
+
+
 [^各级别奖项]:详见【证书】【荣誉奖项】两栏 
 [^苏轼]:出自苏轼所作《浣溪沙·慢品人间烟火色》
 [^近100w阅读量，超6k点赞，1k收藏]:原回答链接:[假如你突然变成了猫娘，你会做什么](https://www.zhihu.com/question/609718303/answer/3161608162)
