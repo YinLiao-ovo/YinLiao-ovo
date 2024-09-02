@@ -71,8 +71,8 @@
 《水墨的工笔变成写意》 | 《水墨的工笔变成写意》 | 饮料 | 2022 | [<font color="FF5000">网易云音乐</font>](https://y.music.163.com/m/song?id=1964826387&userid=1520329510&dlt=0846)<br/>[<font color="00FFAA">QQ音乐</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=4sLnAJJy0hIv)
 《晴天》 | — | 饮料 | 2024 | [<font color="00FFAA">QQ音乐<br/>(cover周杰伦)</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=mYvaj2tj0Qxr)
 《我的纸飞机》 | — | 饮料 | 2024 | [<font color="00FFAA">QQ音乐<br/>(cover王之睿/GooGoo)</font>](https://c6.y.qq.com/base/fcgi-bin/u?__=FiH0zPFj0ovI)
-《白羊》 | - | 饮料 | 2024 | [抖音短视频](https://v.douyin.com/ihmGJCxH/)
-《七里香》 | - | 饮料 | 2022 | [抖音短视频](https://v.douyin.com/ihmGaqAN/)
+《白羊》 | — | 饮料 | 2024 | [抖音短视频](https://v.douyin.com/ihmGJCxH/)
+《七里香》 | — | 饮料 | 2022 | [抖音短视频](https://v.douyin.com/ihmGaqAN/)
 ... | ... | ... | ... | ...
 
 ### <font color="00AAFF">知乎</font>创作者
