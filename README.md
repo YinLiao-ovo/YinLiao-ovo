@@ -1,4 +1,5 @@
-<!-- 本自述文档尚未完结，正在更新中… -->
+<!-- 本自述文档尚未完结，正在更新中… 
+     本文档部分格式和模板灵感来源于高楷修先生GitHub@Lingggao，特此注明-->
 
 ***<div align=center><font color="00AAFF" size=6 face="黑体">```慢品人间烟火色，闲观万事岁月长```</font></div>***
 
@@ -7,7 +8,7 @@
 
 # 关于我 | Profile
 ---
-<div align=center><img src="1.png" width = "75%" /></div>
+<div align=center><img src="1.png" width = "50%" /></div>
 
 &emsp;&emsp;饮料，男，19岁，学生。来自山东淄博，现居北京，汉族，毕业于山东淄博实验中学，2020年12月加入中国共产主义青年团。Microsoft Windows Insider Program Member，曾参与书法教育教学，高中数学物理课程教学培训。独立原创音乐人，网易入驻歌手，腾讯校园音乐人。
 
@@ -82,7 +83,19 @@
 
 ---
 
-# 你可以在哪里找到我
+# 其他的浅谈
+
+## 我的标签
+
+Windows | Python | Java | C++
+:---: | :---: | :---: | :---:
+**Microsoft** | **Office** | **vivo** | **iQOO**
+**Markdown** | **LaTeX** | **Web** | **HTML**
+**Android** | **Linux** | **R＆B** | **Jazz**
+林俊杰 | 周杰伦 | 中国铁路 | 公共交通
+摄影 | K歌 | 钢琴 | 书法
+
+## 你可以在哪里找到我
 
 **平台** | **ID** | **用户名** | 
 :---: | :---: | :---:
@@ -97,7 +110,15 @@ Microsoft Community | YinLiao.Liu | —
 抖音 | YinLiao.ovo | 午夜心碎饮料
 全民K歌 | lyl2302029612 | 午夜心碎饮料
 
+## 我的设备
 
+**设备类型** | **设备品牌/型号** | **内存** | **存储**
+:---: | :---: | :---: | :---:
+手机 | <img src="3.png" width="100"> | 12GB | 512GB
+平板 | iPad 2021 | 4GB | 64GB
+电脑 | HP Gaming Laptop 16 | 16GB | 1TB
+
+---
 
 [^各级别奖项]:详见【证书】【荣誉奖项】两栏 
 [^苏轼]:出自苏轼所作《浣溪沙·慢品人间烟火色》
