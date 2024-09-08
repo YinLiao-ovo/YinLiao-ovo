@@ -90,8 +90,8 @@
 Windows | Python | Java | C++
 :---: | :---: | :---: | :---:
 **Microsoft** | **Office** | **vivo** | **iQOO**
-**Markdown** | **LaTeX** | **Web** | **HTML**
-**Android** | **Linux** | **R＆B** | **Jazz**
+**Markdown** | **LaTeX** | 作曲 | 播音主持
+**Android** | **Linux** | **R＆B** | 王者荣耀
 林俊杰 | 周杰伦 | 中国铁路 | 公共交通
 摄影 | K歌 | 钢琴 | 书法
 
